@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiddharthSonawane self taught programmer with hands-ons knowledge of JavaScript, HTML , CSS along with basic knowledge of nodejs,expressjs.
+- 👋 Hi, I’m @SiddharthSonawane self taught programmer with hands-ons experience of JavaScript, HTML , CSS along with basic knowledge of nodejs,expressjs.
 Currently i'm looking for job as front-end developer, back-end developer or full-stact developer.
 Nowadays i'm learning React.js
 
